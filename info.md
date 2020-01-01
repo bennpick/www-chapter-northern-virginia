@@ -1,6 +1,6 @@
-<!--### Chapter Information
-* Chapter Region
+### Chapter Information
+* OWASP Northern Virginia
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* https://www.meetup.com/OWASP-Northern-Virginia-Chapter/
+
