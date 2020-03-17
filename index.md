@@ -4,10 +4,7 @@ layout: col-sidebar
 title: OWASP Northern Virginia
 tags: NoVa
 level: 1
-
 region: United States
-
-auto-migrated: 1
 
 ---
 
