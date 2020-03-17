@@ -2,5 +2,5 @@
 * OWASP Northern Virginia
 
 ### Social Links
-* https://www.meetup.com/OWASP-Northern-Virginia-Chapter/
+* [Meetup](https://www.meetup.com/OWASP-Atlanta/)
 
