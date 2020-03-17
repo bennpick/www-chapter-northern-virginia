@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Northern Virginia
 tags: NoVa
-level: 0
+level: 1
 
 region: United States
 
